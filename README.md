@@ -1,4 +1,4 @@
-# CSC-DA3
+# Relative Sorting
 This project discusses solution to the problem of Relative Sorting.
 Relative Sorting is Sorting an array, lets say A1 according to the order defined by another array A2
 
