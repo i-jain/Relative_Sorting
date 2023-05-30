@@ -1,6 +1,7 @@
 // RELATIVE SORTING - Sorting an array according to the order defined by another array using Sorting and Binary Search
 
-#include <bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
 using namespace std;
 
 int bin_search (int arr[], int key, int start, int end){
